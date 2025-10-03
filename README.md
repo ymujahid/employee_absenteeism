@@ -7,7 +7,7 @@
 ---
 
 ## 2. Data Collection
-**Dataset:** [Fictitious Employee Absence Dataset](https://www.kaggle.com/datasets/HRAnalyticRepository/absenteeism-dataset)  
+**Dataset:** [Employee Absence Dataset](https://www.kaggle.com/datasets/HRAnalyticRepository/absenteeism-dataset)  
 
 - Uploaded on Kaggle for HR data exploration with analytical/statistical tools.  
 - Disclaimer: This is synthetic/fake data.  
